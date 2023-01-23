@@ -1,2 +1,2 @@
 # RepositorioHenry
-Este es un repositorio de prueba del modulo 2 de Henry
+es un prueba de cpomo clonarlo ede github al repositorio local
